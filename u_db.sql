@@ -4,4 +4,4 @@ CREATE TABLE u_db (
 	u_age INT NOT NULL,
 	u_gender INT NOT NULL,
 	u_job VARCHAR(16) NOT NULL
-)ENGINE=InnoDB DEFAULT CHARSET=utf8;
+);
