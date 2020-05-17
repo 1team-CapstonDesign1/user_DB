@@ -1,4 +1,4 @@
-Create Table user_db(
+Create Table online_db(
 	s_num INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 	s_date DATE NOT NULL,
 	s_age INT NOT NULL,
